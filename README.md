@@ -26,7 +26,7 @@
 
 #### Here is the main filter which will iterate thru all the values of the object an then filter the table.
 
-<img src="https://github.com/SeRoGaTa/UFOs/blob/main/images/webpage.png" width="300"> 
+<img src="https://github.com/SeRoGaTa/UFOs/blob/main/images/mainfilter.png" width="500"> 
 
 #### This is an image of the web page
 
